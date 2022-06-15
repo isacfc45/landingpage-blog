@@ -1,0 +1,256 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    padding: 20px 0px 0px 0px;
+    background: linear-gradient(88.27deg, #574AE8 0%, #3EA1DB 100%);
+}
+.center{
+    height: 250px;
+    width: 1440px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    
+}
+
+.nome1{
+    position: absolute;
+    width: 133px;
+    height: 30px;
+    left: 269px;
+    top: 41px;
+
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    /* identical to box height */
+
+    text-align: right;
+
+    color: #FFFFFF;
+}
+.nome2{
+    position: absolute;
+    width: 52px;
+    height: 30px;
+    left: 1118px;
+    top: 41px;
+
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    /* identical to box height */
+
+    text-align: right;
+
+    color: #FFFFFF;
+}
+
+.pesquisar{
+    position: absolute;
+    width: 900px;
+    height: 65px;
+    left: 270px;
+    top: 144px;
+
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+}
+
+.txtBusca{
+    position: absolute;
+    width: 850px;
+    height: 22px;
+    left: 22px;
+    top: 21px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    text-align: left;
+    
+    color: #FFFFFF;
+    
+    opacity: 0.5;
+}
+
+body{
+    background: #F3F5F7;
+}
+
+.post1{
+    position: absolute;
+    width: 900px;
+    height: 220px;
+    left: 270px;
+    top: 350px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(19, 19, 31, 0.05);
+    border-radius: 5px;
+}
+
+.post2{
+    position: absolute;
+    width: 900px;
+    height: 220px;
+    left: 270px;
+    top: 595px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(19, 19, 31, 0.05);
+    border-radius: 5px;
+}
+
+.post3{
+    position: absolute;
+    width: 900px;
+    height: 220px;
+    left: 270px;
+    top: 850px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(19, 19, 31, 0.05);
+    border-radius: 5px;
+}
+
+.post4{
+    position: absolute;
+    width: 900px;
+    height: 220px;
+    left: 270px;
+    top: 1117px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(19, 19, 31, 0.05);
+    border-radius: 5px;
+}
+
+.data{
+    position: absolute;
+    width: 152px;
+    height: 767px;
+    left: -5px;
+    top: 23px;
+
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+
+    text-align: right;
+
+    color: #717171;   
+}
+
+
+.like{
+    position: absolute;
+    width: 152.64px;
+    height: 26.56px;
+    left: 851.56px;
+    top: 23.12px;
+    
+
+}
+
+.titulo1{
+    position: absolute;
+    height: 107px;
+    width: 600px;
+    left: -70px;
+    top: 65px;
+    
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+
+    text-align: right;
+
+    color: #1A202C;
+}
+
+.text{
+    position: inherit;
+    height: 25px;
+    margin-right: 25px;
+    left: 25px;
+    top: 106px;
+
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+
+
+    color: #717171;
+}
+
+.titulo2{
+    position: absolute;
+    height: 107px;
+    width: 607px;
+    left: 25px;
+    top: 65px;
+    
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+
+    text-align: right;
+
+    color: #1A202C;
+}
+
+.titulo3{
+    position: absolute;
+    height: 107px;
+    width: 700px;
+    left: 0px;
+    top: 65px;
+    
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+
+    text-align: right;
+
+    color: #1A202C;
+}
+
+.titulo4{
+    position: absolute;
+    height: 107px;
+    width: 650px;
+    left: -5px;
+    top: 65px;    
+
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 32px;
+
+    text-align: right;
+
+    color: #1A202C;
+}
